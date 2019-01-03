@@ -1,7 +1,8 @@
 #<!pyhton3>
-#Script to configure IFTTT for SH
-#pre-requisites before running the script
-#	Make 1 applet using google assistant
+#Script to configure IFTTT for Smart Home
+
+# *****    pre-requisites before running the script    *****
+# *****      Make 1 applet using google assistant      *****
 
 from selenium import webdriver
 import time
