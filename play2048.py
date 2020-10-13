@@ -40,6 +40,7 @@ def play_game(tno):
 
 
 if __name__=='__main__':
+	print("Starting the game.....")
 	for i in range(trials):
 		t_no = t_no + 1
 		score = play_game(t_no)
